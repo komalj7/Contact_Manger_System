@@ -1,0 +1,100 @@
+{
+  "contacts": [
+    {
+      "id": "1A123@",
+      "name": "komal",
+      "contact": "999999999",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaod5kYQYFZUiW5D1GTass_BDtdJW3bIQ06VcQul7tO2tT2xt6AxLVeA9HbVLu84AvDs&usqp=CAU",
+      "email": "komal@123.com",
+      "title": "soft egg",
+      "company": "tcs",
+      "group": 1
+    },
+    {
+      "id": "1A124@",
+      "name": "ajay",
+      "contact": "999999999",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxcm6AgaCk_Fxa_wsy30AZaY98Ne0XhnWvLXjE-q7FH0yLCY9EKCK24B8eQ&s",
+      "email": "ajay@123.com",
+      "title": "web developer",
+      "company": "capgemini",
+      "group": 2
+    },
+    {
+      "id": "1A125@",
+      "name": "nidhi",
+      "contact": "999999999",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgAJ2AL2BUJeYp3pvkvvWUg0bP1EkoyVqjog&usqp=CAU",
+      "email": "nidhi@123.com",
+      "title": "HR",
+      "company": "infosys",
+      "group": 3
+    },
+    {
+      "id": "1A126@",
+      "name": "sujay",
+      "contact": "999999999",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpxcm6AgaCk_Fxa_wsy30AZaY98Ne0XhnWvLXjE-q7FH0yLCY9EKCK24B8eQ&s",
+      "email": "sujay@123.com",
+      "title": "Data engg",
+      "company": "wipro",
+      "group": 4
+    },
+    {
+      "id": "1A127@",
+      "name": "priti",
+      "contact": "999999999",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN3xNrIYrhv-biIp4WnL3SE9ZF9FBYSlQvZw&usqp=CAU",
+      "email": "priti@123.com",
+      "title": "Data analyst",
+      "company": "Mindtree",
+      "group": 5
+    },
+    {
+      "id": "1A128@",
+      "name": "ritika",
+      "contact": "999999999",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo6wCUSmJEK9kC5KVqmQczHMH3OMcc_9BTTQ&usqp=CAU",
+      "email": "ritika@123.com",
+      "title": "test engg",
+      "company": "Aceeltree",
+      "group": 6
+    },
+    {
+      "id": "bee2",
+      "name": "komal",
+      "photo": "data:image/png;base64,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",
+      "contact": "7876869776",
+      "email": "komal@gmail.com",
+      "title": "software dev",
+      "company": "ttl",
+      "group": ""
+    }
+  ],
+  "groups": [
+    {
+      "id": "A123@",
+      "group": "Colleague"
+    },
+    {
+      "id": "A124@",
+      "group": "friends"
+    },
+    {
+      "id": "A125@",
+      "group": "friends"
+    },
+    {
+      "id": "A126@",
+      "group": "social"
+    },
+    {
+      "id": "A127@",
+      "group": "collage"
+    },
+    {
+      "id": "A128@",
+      "group": "school"
+    }
+  ]
+}
